@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "forList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "opencc": "^1.1.3",
+    "request": "^2.88.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
